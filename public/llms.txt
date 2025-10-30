@@ -1,0 +1,10 @@
+## Pages
+- [| Case Study`}](/casestudy): No description available
+- [404 - Page Not Found | 99AGENTS.AGENCY](/notfound): The page you are looking for does not exist.
+- [99AGENTS.AGENCY - Graphic Design, Web Development & AI Solutions](/home): Leading graphic and web design agency in Northern California specializing in AI solutions and automation. Transform your business with cutting-edge design and technology.
+- [About Us | 99AGENTS.AGENCY](/about): Learn about 99AGENTS.AGENCY, our mission, vision, and the values that drive our digital transformation services.
+- [AI Agents for Business - 99AGENTS.AGENCY](/aiagents): Discover how AI agents for voice, chat, automation, and analytics can transform your business operations, enhance customer experience, and drive growth.
+- [Contact Us | 99AGENTS.AGENCY](/contact): Get in touch with 99AGENTS.AGENCY to discuss your project or learn more about our digital transformation services.
+- [Our Team | 99AGENTS.AGENCY](/team): Meet the talented team of strategists, designers, and developers at 99AGENTS.AGENCY.
+- [Our Technical Expertise & Digital Services - 99AGENTS.AGENCY](/digitalservices): Explore our vast technical capabilities, from frontend and backend development with React, Node.js, and Python, to mobile apps, CMS, and AI integration.
+- [Portfolio - 99AGENTS.AGENCY](/portfolio): Explore our portfolio of innovative projects, from AI solutions to stunning web and graphic design.
